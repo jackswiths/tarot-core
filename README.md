@@ -1,5 +1,7 @@
 # Tarot Core
 
+# Care ==> works for UniV2 ish
+
 This repository contains the core contracts of the Tarot Protocol.
 
 Many design choices used in the Tarot Protocol stem from Impermax and UniswapV2. In order to understand the scope of this project and how it works we suggest the following readings:
